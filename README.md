@@ -2,8 +2,8 @@
 
 ## Collaborators
 
-* [Roberto Santoro](collaborator_profile_link_1) - Link to GitHub profile
-* [Emmanuele Tanzi](collaborator_profile_link_2) - Link to GitHub profile
+* [Roberto Santoro](https://github.com/Roby2851) - Link to GitHub profile
+* [Emanuele Tanzi](https://github.com/ematanzi) - Link to GitHub profile
 
 
 ## Description
