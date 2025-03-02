@@ -1,5 +1,11 @@
 # Everest Bunker Adventure
 
+## Collaborators
+
+* [Collaborator Name 1](collaborator_profile_link_1) - [Link to GitHub profile or other]
+* [Collaborator Name 2](collaborator_profile_link_2) - [Link to GitHub profile or other]
+
+
 ## Description
 
 Everest Bunker Adventure is an interactive text adventure game written in Java. The player is trapped in a bunker on Mount Everest and must solve puzzles, interact with objects and characters to unravel the story and find a way out.
