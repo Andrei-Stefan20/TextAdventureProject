@@ -2,8 +2,8 @@
 
 ## Collaborators
 
-* [Collaborator Name 1](collaborator_profile_link_1) - [Link to GitHub profile or other]
-* [Collaborator Name 2](collaborator_profile_link_2) - [Link to GitHub profile or other]
+* [Roberto Santoro](collaborator_profile_link_1) - Link to GitHub profile
+* [Emmanuele Tanzi](collaborator_profile_link_2) - Link to GitHub profile
 
 
 ## Description
